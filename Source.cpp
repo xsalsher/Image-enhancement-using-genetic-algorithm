@@ -16,7 +16,7 @@ int l, k, pos1, pos2, image_size, rows, cols, edge;
 double fit_value, fit_value1, largest = 0, second_largest = 0;
 int dx[] = { -1,-1,-1,0,0,1,1,1 };
 int dy[] = { -1,0,1,-1,1,-1,0,1 };
-Mat matOut = imread("../data/img4.jpg", CV_LOAD_IMAGE_GRAYSCALE);
+Mat matOut = imread("../data/img4.jpg", CV_LOAD_IMAGE_GRAYSCALE); // rename this as your image name
 int initial_population = 5, perform_crossover = 5;
 int total_population = initial_population + (2 * perform_crossover);
 int *random_value()
@@ -252,7 +252,7 @@ int main()
 {
 
 	int row, col, m;
-	Mat mat = imread("../data/img4.jpg", CV_LOAD_IMAGE_GRAYSCALE);
+	Mat mat = imread("../data/img4.jpg", CV_LOAD_IMAGE_GRAYSCALE); // rename this as your image name
 	namedWindow("original image", WINDOW_AUTOSIZE);
 	imshow("original image", mat);
 	waitKey(0);
