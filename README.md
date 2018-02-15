@@ -11,3 +11,16 @@ https://www.youtube.com/watch?v=l4372qtZ4dc&t=671s
 * Then add an image in the project data file and rename 255 and 19 as your image name and the image pixel must be between 1024 pixel.
 * Then run the project.
 
+Project Description:
+===================
+* To better understand this project visit this link:
+https://www.slideshare.net/nayeem_hasan/an-approach-to-enhancing-image-contrast-using-genetic-algorithm
+
+Contacts:
+=========
+* Email: nayeem.hasanewu@gmail.com
+
+
+
+
+
