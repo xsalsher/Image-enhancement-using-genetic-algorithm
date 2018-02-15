@@ -16,6 +16,18 @@ Project Description:
 * To better understand this project visit this link:
 https://www.slideshare.net/nayeem_hasan/an-approach-to-enhancing-image-contrast-using-genetic-algorithm
 
+Screenshots:
+===========
+![captureth](https://user-images.githubusercontent.com/17163242/36262787-9b89bf78-1292-11e8-86ea-02fadbe5c766.PNG)
+
+
+![captureth1](https://user-images.githubusercontent.com/17163242/36262846-c3be8488-1292-11e8-9934-fe7f59c73339.PNG)
+
+
+![captureth2](https://user-images.githubusercontent.com/17163242/36262850-c64e5d40-1292-11e8-8ae7-c04b63cf1ed0.PNG)
+
+
+
 Contacts:
 =========
 * Email: nayeem.hasanewu@gmail.com
